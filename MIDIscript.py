@@ -1,5 +1,7 @@
 import sys, pygame, pygame.midi, rtmidi, time
- 
+# require the package python-rtmidi installed with pip
+
+
 ### INPUT SETUP ###
 pygame.init()
 pygame.midi.init()
