@@ -7,8 +7,8 @@ Useful for old MIDI interfaces (like YAMAHA MIDI drum) with a not updated MIDI m
 that a lot of program, nowdays, can't read.
 
 ## Requires
-pyhton 3.7
-pygame
+pyhton 3.7,
+pygame,
 pyhton-rtmidi
 
 ## Installation
