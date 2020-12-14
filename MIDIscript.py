@@ -55,6 +55,7 @@ while going:
         # Transfer the note 
         note_msg = [current_note[0][0][0], current_note[0][0][1], current_note[0][0][2]]
         
+	### EXAMPLE OF MY LOOKUP TABLE FOR YAMAHA DTX drum and the app MELODICA (or LOGIC PRO X)
         # DTX Snare 31 to standard 38 acoustic snare
         if note_msg[1] == 31:
         	note_msg[1] = 38 
