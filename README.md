@@ -6,7 +6,7 @@ It's possible to create a Real Time look-up table for MIDI signal.
 Useful for old MIDI interfaces (like YAMAHA MIDI drum) with a not updated MIDI mapping,
 that a lot of program, nowdays, can't read.
 
-## Requires
+## Requirements
 pyhton 3.7,
 pygame,
 pyhton-rtmidi
